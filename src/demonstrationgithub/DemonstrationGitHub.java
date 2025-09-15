@@ -20,6 +20,7 @@ public class DemonstrationGitHub {
         // TODO code application logic here
         //First comment
         //Demonstrating pull
+        //fetch and merge demonstration
     }
     
 }
